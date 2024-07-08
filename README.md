@@ -1,1 +1,16 @@
-A very important invite
+<h1>מזל טוב!</h1>
+<h2>יא מצטיין דיקאן חריף שלי</h2>
+<img src="https://www.shutterstock.com/image-photo/chili-pepper-isolated-on-white-260nw-1524467540.jpg"
+    alt="Bushu is a hot pepper" />
+<p>
+    מה להביא לטקס:
+<ul>
+    <li>הרבההה מים</li>
+    <li>בגדים יפים</li>
+    <li>חיבוק לבושו</li>
+</ul>
+</p>
+
+<p> איפה כל היופי הזה?<br>
+<a href="https://maps.app.goo.gl/CZyyPDuEt8yRbYLW8">ממש פה!</a>
+</p>
